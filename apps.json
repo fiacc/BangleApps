@@ -1,13 +1,13 @@
 [
-  { "id": "mtest01",
+  { "id": "mtest",
     "name": "Menu Test",
     "icon": "app.png",
     "description": "Menu Test",
     "tags": "",
     "storage": [
-      {"name":"+mtest01","url":"app.json"},
-      {"name":"-mtest01","url":"app.js"},
-      {"name":"*mtest01","url":"app-icon.js","evaluate":true}
+      {"name":"+mtest","url":"app.json"},
+      {"name":"-mtest","url":"app.js"},
+      {"name":"*mtest","url":"app-icon.js","evaluate":true}
     ]
   }
 ,  
